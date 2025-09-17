@@ -33,19 +33,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Special Thanks to:
-- [Creative Tim](https://demos.creative-tim.com/vue-argon-design-system) (Inspired me to reproduce their `Design System`)
-- [Vitor Britto](https://github.com/vitorbritto/forcefiles/blob/f0e32299138348247bd2f6ccb3dd51683fa761fd/scripts/initpost.sh) (Inspired me to reproduce his `./initpost` script)
-- [Marina Aisa](https://marinaaisa.com) (Inspired me to create I18n content)
-- [Ankur Parihar](https://github.com/ankurparihar/readme-pagespeed-insights) (Inspired me to generate Pagespeed insight periodically)
 - [Myself](https://github.com/samelos-media-communication/swr-global-state) (Created a zero-setup global state management library for this repository)
 
 ## Support Me
 ### Global
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/samelos-media-communication)
-### Indonesia
-- [Trakteer](https://trakteer.id/samelos-media-communication)
-- [Karyakarsa](https://karyakarsa.com/samelos-media-communication)
-
-* * *
 
 Copyright © 2025 by Samelos Media and Communication
